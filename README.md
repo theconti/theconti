@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm on the self-taught programming path since jan/2022!!
-- 🌱 Currently learning full stack web development! 
 - - 😄 Pronouns: he/him...
 - ⚡ Fun fact: I used to be a lawyer...
 -->
